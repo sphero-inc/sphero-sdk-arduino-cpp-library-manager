@@ -22,8 +22,8 @@ Consider [signing up](http://sdk.sphero.com/sign-up) for our SDK email list to s
 
 ## About the Arduino SDK
 
-Our SDK is meant for beginners and experts alike. If you are just getting started on your journey, and would like some helpful guides on using RVR’s features, you can find plenty of examples built right in to the SDK. Just unzip the `SpheroRVR.zip` file and go to the `examples` folder!
+Our SDK is meant for beginners and experts alike. If you are just getting started on your journey, and would like some helpful guides on using RVR’s features, you can find plenty of examples built right in to the SDK. Just go to the **Examples** tab in the Arduino IDE after including our library!
 
-The best way to get familiar with our SDK is to dive into the `examples` directory, and follow along with the code. Feel free to modify the programs and experiment to gain a better understanding of what different values, and inputs affect the operation of RVR.  If you find yourself needing assistance, we are always happy to provide help through our community portal where other Sphero enthusiasts, as well as our developers can share knowledge, and help you succeed with your ideas.
+The best way to get familiar with our SDK is to dive into the **Examples** directory, and follow along with the code. Feel free to modify the programs and experiment to gain a better understanding of what different values, and inputs affect the operation of RVR.  If you find yourself needing assistance, we are always happy to provide help through our community portal where other Sphero enthusiasts, as well as our developers can share knowledge, and help you succeed with your ideas.
 
 Happy coding!
